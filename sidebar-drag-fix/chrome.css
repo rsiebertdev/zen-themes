@@ -1,0 +1,3 @@
+:root:not([zen-sidebar-expanded="true"]) #tabbrowser-tabs .tabbrowser-tab:active {
+	scale: 0.93 !important;
+}
