@@ -8,6 +8,7 @@ Unlike other mods, this has been extensively tested and aims to work with any la
 
 ### 1.1.1
 - 📝 Updated README.
+- 📝 Added homepage to theme metadata.
 
 ### 1.1.0
 - 📝 Added comments.

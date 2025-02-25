@@ -9,6 +9,7 @@ On some websites, the HTML background color can sometimes bleed-through the edge
 
 ### 1.0.2
 - 📝 Updated README.
+- 📝 Added homepage to theme metadata.
 
 ### 1.0.1
 - 🔁 Replaced the old thumbnail with a high quality render (1.85:1).
