@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://github.com/zen-browser/">
     <img src="https://github.com/zen-browser/.github/blob/main/profile/logo-black.png?raw=true" width="128px">
