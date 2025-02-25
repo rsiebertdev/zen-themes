@@ -6,7 +6,7 @@
 <h3 align="center">💚 My mods repository for Zen Browser!</h3>
 
 <p align="center">
-	My collection of fixes, modifications and quality-of-life improvements for @zen-browser.
+	My collection of fixes, modifications and quality-of-life improvements for Zen Browser.
 	<br />
 	🌐 <a href="https://github.com/zen-browser/theme-store"><strong>Public Theme Store Repository</strong></a>
 	&middot;
