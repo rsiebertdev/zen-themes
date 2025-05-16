@@ -7,6 +7,9 @@ On some websites, the HTML background color can sometimes bleed-through the edge
 
 ## Change log
 
+### 1.0.3
+- 🐛 Fixed clip-path not applying to websites using the `backdrop-filter` effect (see #1).
+
 ### 1.0.2
 - 📝 Updated README.
 - 📝 Added homepage to theme metadata.
