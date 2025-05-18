@@ -6,6 +6,9 @@ Unlike other mods, this has been extensively tested and aims to work with any la
 
 ## Change log
 
+### 1.1.2
+- 🔧 Changed homepage URL path to point to the mod directory itself, instead of the root repository (see #2).
+
 ### 1.1.1
 - 📝 Updated README.
 - 📝 Added homepage to theme metadata.
